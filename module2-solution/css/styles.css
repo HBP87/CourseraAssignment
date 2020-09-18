@@ -1,0 +1,34 @@
+.section {
+  width: 238px;
+  border: 2px solid black;
+  background-color: blanchedalmond;
+  text-align: center;
+}
+.sectionHeading {
+  border-right: 1px solid black;
+  border-top: 1px solid black;
+  border-bottom: 2px solid black;
+  border-left: 2px solid black;
+  width: 50px;
+  margin-left: 187px;
+  margin-top: 0px;
+}
+header section {
+  text-align: center;
+}
+.sectionContainer {
+}
+.text {
+  color: darkblue;
+  font-size: 18px;
+}
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header section {
+  font-size: 31.5px;
+}
+
+.sectionContainer .sectionHeading {
+  font-size: 22.5px;
+}
