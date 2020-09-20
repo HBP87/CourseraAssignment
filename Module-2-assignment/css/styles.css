@@ -28,7 +28,7 @@ body {
 .sectionHeading {
   font-size: 125%;
   border: 3px solid black;
-  border-radius: 20px;
+  border-radius: 10px;
   width: 15%;
   height: 10%;
   overflow: hidden;
