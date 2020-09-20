@@ -33,6 +33,7 @@ p {
     margin-left: 2%;
     margin-right: 2%;
     margin-top: 10px;
+    margin-bottom: 10px;
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
@@ -49,6 +50,7 @@ p {
     clear: left;
     margin-left: 2%;
     margin-right: 2%;
+    margin-bottom: 10px;
   }
 }
 @media (max-width: 767px) {
