@@ -54,8 +54,8 @@ p {
 @media (max-width: 767px) {
   .section {
     float: left;
-    clear: left;
-    width: 100%;
+    clear: both;
+    width: 96%;
     margin-left: 2%;
     margin-right: 2%;
     margin-top: 10px;
