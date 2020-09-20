@@ -1,9 +1,17 @@
 * {
   box-sizing: border-box;
   text-align: center;
+  margin: 0;
+  padding: 0;
 }
 header {
   font-size: 175%;
+  margin: 20px 0 20px 0;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  border-bottom: 3px solid black;
+  font-weight: bold;
+  font-style: italic;
 }
 body {
   font-family: Arial, Helvetica, sans-serif;
@@ -13,11 +21,15 @@ body {
   float: left;
   width: 20%;
   border: 1px solid black;
+  border-radius: 20px;
   background-color: blanchedalmond;
+  margin-right: 10%;
 }
 .sectionHeading {
   font-size: 125%;
-  border: 1px solid black;
+  border: 3px solid black;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
   width: 15%;
   height: 10%;
   overflow: hidden;
@@ -26,4 +38,7 @@ body {
 }
 .text {
   margin: 10px 10px 10px 10px;
+}
+#foo {
+  margin-left: 10%;
 }
