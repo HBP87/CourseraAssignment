@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@300;400;700&display=swap");
+* {
+  font-size: 16px;
+  font-family: "Kumbh Sans", sans-serif;
+}
+.navbar {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: coral !important;
+}
+.navbar-brand {
+  font-size: 2em;
+  font-weight: 700;
+  margin-left: 2%;
+}
+.navbar-toggler {
+  background-color: rgb(241, 83, 83);
+}
+.para {
+  border: 1px solid black;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: rgb(241, 83, 83);
+  color: black;
+}
